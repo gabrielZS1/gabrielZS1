@@ -1,4 +1,4 @@
-# Olá! Eu sou o Gabriel
+# 👨‍💻Olá! Eu sou o Gabriel
 
 - 🛠Técnico em desenvolvimento de sistemas
 - 🏫Estudante da ETEC
