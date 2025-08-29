@@ -22,7 +22,7 @@
 <!-- Redes sociais -->
 <h3>:globe_with_meridians: Minhas redes:</h3>
 <div>
-  <a href="https://www.instagram.com/biel.zs_?igsh=MtaQWh0bDVejZJzg" target="_blank">
+  <a href="https://www.instagram.com/biel.az_?igsh=MtaQWh0bDVejZJzg" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   
