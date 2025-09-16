@@ -5,8 +5,8 @@
 - ⚡Back-End & Front-End
 
 <div style="display: flex; justify-content: center; gap: 70;">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrielZS1&show_icons=true&theme=transparent" alt="GitHub Stats" height="180">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielZS1&layout=compact&theme=transparent&cache_seconds=1000" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielZS1&show_icons=true&theme=dark" alt="GitHub Stats" height="180">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielZS1&layout=compact&theme=dark&cache_seconds=1500" />
 
 <!-- Linguagens -->
 <h3>:rocket: Linguagens que utilizo:</h3>
