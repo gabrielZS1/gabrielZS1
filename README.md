@@ -21,6 +21,7 @@
 </div>
 
 <br>
+
 <!-- Redes sociais -->
 <h3>:globe_with_meridians: Minhas redes:</h3>
 <div>
