@@ -155,13 +155,5 @@ Me chamo Gabriel Azevedo, tenho 17 anos e sou de São Paulo. Atualmente, estou c
   height="200"
   src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabrielZS1&layout=compact&custom_title=Tecnologias&langs_count=9&theme=react"
 />
-  <img 
-    align="left"
-    alt="Top Languages"
-    height="200"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabrielZS1&layout=compact&custom_title=Tecnologias&langs_count=9&theme=react"
-  />
-</p>
-
 
 </p>
