@@ -1,6 +1,6 @@
 # 👨‍💻Gabriel Azevedo
 
-**`Cursando Engenharia de SOftware`**
+**`Cursando Desenvolvimento de Sistemas`**
 
 Me chamo Gabriel Azevedo, tenho 17 anos e sou de São Paulo. Atualmente, estou cursando Desenvolvimento de Sistemas na ETEC. Sou apaixonado por tecnologia e compartilho meu aprendizado, experiências e projetos através do meu LinkedIn, no perfil [Gabriel Azevedo](https://www.linkedin.com/in/gabriel-azevedo-51674a377/), onde falo sobre minha rotina de estudos, desenvolvimento de projetos web, aprendizado em programação e minha evolução na área de tecnologia.
 
