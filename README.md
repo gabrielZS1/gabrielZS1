@@ -146,7 +146,7 @@ Me chamo Gabriel Azevedo, tenho 17 anos e sou de São Paulo. Atualmente, curso D
     height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabrielZS1&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-    
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabrielZS1&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 
