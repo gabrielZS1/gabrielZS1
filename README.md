@@ -1,9 +1,9 @@
 # 👨‍💻Gabriel Azevedo
 
-**`Cursando Desenvolvimento de Sistemas`**
+**`Desenvolvedor de Software`**
 
-Me chamo **Gabriel Azevedo**, tenho **17** anos e sou de São Paulo. Concluí o curso técnico de Desenvolvimento de Sistemas na **ETEC**, onde construí uma base sólida em programação, desenvolvimento web e lógica de software.
-Atualmente, faço parte do ProProfissão, uma iniciativa do Instituto **PROA** em parceria com o **Senac**, aprofundando meus conhecimentos em desenvolvimento de software, boas práticas de programação, trabalho em equipe e desenvolvimento profissional.
+Me chamo **Gabriel Azevedo**, tenho **17** anos e sou de **São Paulo**. Concluí o **curso técnico** de Desenvolvimento de Sistemas na **ETEC**, onde construí uma base sólida em programação, desenvolvimento web e lógica de software.
+Atualmente, faço parte do **ProProfissão**, uma iniciativa do **Instituto PROA** em parceria com o **Senac**, aprofundando meus conhecimentos em desenvolvimento de software, boas práticas de programação, trabalho em equipe e desenvolvimento profissional.
 Sou apaixonado por tecnologia e estou em constante evolução, buscando aprender novas ferramentas, aprimorar minhas habilidades e construir soluções que gerem impacto por meio da programação.
 
 <p align="left">
