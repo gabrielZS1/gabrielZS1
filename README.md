@@ -2,7 +2,9 @@
 
 **`Cursando Desenvolvimento de Sistemas`**
 
-Me chamo Gabriel Azevedo, tenho 17 anos e sou de São Paulo. Atualmente, curso Desenvolvimento de Sistemas na ETEC e sou apaixonado por tecnologia. Atuo como freelancer no desenvolvimento de projetos web, aplicando na prática meus conhecimentos em programação. Possuo um [portfólio](https://portfolio-gabriel-zs-1.vercel.app/) com projetos que demonstram minha evolução, habilidades técnicas e comprometimento com a área de tecnologia.
+Me chamo **Gabriel Azevedo**, tenho **17** anos e sou de São Paulo. Concluí o curso técnico de Desenvolvimento de Sistemas na **ETEC**, onde construí uma base sólida em programação, desenvolvimento web e lógica de software.
+Atualmente, faço parte do ProProfissão, uma iniciativa do Instituto **PROA** em parceria com o **Senac**, aprofundando meus conhecimentos em desenvolvimento de software, boas práticas de programação, trabalho em equipe e desenvolvimento profissional.
+Sou apaixonado por tecnologia e estou em constante evolução, buscando aprender novas ferramentas, aprimorar minhas habilidades e construir soluções que gerem impacto por meio da programação.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/gabriel-azevedo-51674a377/">
