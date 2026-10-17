@@ -1,147 +1,132 @@
-# 👨‍💻Gabriel Azevedo
+# ☕🍃 Daniel Expedito - Desenvolvedor Back-end
 
-**`Desenvolvedor de Software`**
+🏆 Estudante de Análise e Desenvolvimento de Sistemas na Fatec e formado em Programação de Jogos Digitais pela ETEC. Tenho experiência em projetos acadêmicos e freelance, sempre com forte foco em **desenvolvimento Back-end e construção de APIs RESTful**.
 
-Me chamo **Gabriel Azevedo**, tenho **17** anos e sou de **São Paulo**. Concluí o **curso técnico** de Desenvolvimento de Sistemas na **ETEC**, onde construí uma base sólida em programação, desenvolvimento web e lógica de software.
-Atualmente, faço parte do **ProProfissão**, uma iniciativa do **Instituto PROA** em parceria com o **Senac**, aprofundando meus conhecimentos em desenvolvimento de software, boas práticas de programação, trabalho em equipe e desenvolvimento profissional.
-Sou apaixonado por tecnologia e estou em constante evolução, buscando aprender novas ferramentas, aprimorar minhas habilidades e construir soluções que gerem impacto por meio da programação.
+🎓 Atualmente curso Análise e Desenvolvimento de Sistemas na Fatec, Faculdade Pública do Estado de São Paulo. 
 
-<p align="left">
-    <a href="https://www.linkedin.com/in/gabriel-azevedo-51674a377/">
-        <img 
-            alt="LinkedIn Seguidores"
-            title="Conecte-se comigo no LinkedIn"
-            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-%2B500-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=0A66C2"
-        />
-    </a>
-    <a href="https://www.linkedin.com/in/gabriel-azevedo-51674a377/">
-        <img 
-            alt="LinkedIn Views"
-            title="Visualizações no LinkedIn"
-            src="https://custom-icon-badges.demolab.com/badge/LinkedIn%20Views-%2B1k-%232E7D32?logo=eye&logoColor=white&style=for-the-badge&labelColor=2E7D32"
-        />
-    </a>
-    <a href="https://www.instagram.com/ogabriel.rh?igsh=c3BsbGQzY2YxY2Zj">
-        <img 
-            alt="Instagram Seguidores"
-            title="Siga-me no Instagram"
-            src="https://custom-icon-badges.demolab.com/badge/Instagram-%2B1k-%23E4405F?logo=instagram&logoColor=white&style=for-the-badge&labelColor=E4405F"
-        />
-    </a>
-</p>
-    <a href="https://github.com/gabrielZS1">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/gabrielZS1?color=FF8C00&style=for-the-badge&labelColor=E67E00&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/gabrielZS1">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/gabrielZS1?color=7B1FA2&labelColor=6A1B9A&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+☁️ **Certificação:** Oracle Cloud Infrastructure (OCI) Foundations Associate.
 
+👨‍🎓 No momento, estou aprofundando meus conhecimentos em Java, Spring Boot, Docker, Cloud (AWS) e metodologias ágeis (Scrum).
 
+<br>
 
-### 🤖 Linguagens e Tecnologias
+<br>
 
+<div align="center">
 
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
+## 🛠️ Tech Stack & Tools
 
-<img 
-    align="left" 
-    alt="VsCode" 
-    title="VsCode"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
-/>
+<table>
+<tr>
+<td width="30%" align="center"><b>Frontend Development</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=html" title="Html" alt="Html" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=css" title="Css" alt="Css" width="48" height="48"/>
+</td>
+</tr>
 
-<img 
-    align="left" 
-    alt="Figma" 
-    title="Figma"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
-/>
+<tr>  
+<td width="30%" align="center"><b>Backend Development</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=java" title="Java" alt="Java" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=spring" title="Spring" alt="Spring" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python" width="48" height="48"/>
+</td>
+</tr>
 
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"         
-/>
+<tr>
+<td width="30%" align="center"><b>Database & BaaS</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" alt="PostgreSQL" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL" width="48" height="48"/>
+</td>
+</tr>
 
-<img 
-    align="left" 
-    alt="GitHub" 
-    title="GitHub"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"        
-/>
+<tr>
+<td width="30%" align="center"><b>Cloud & DevOps</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=docker" title="Docker" alt="Docker" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=aws" title="AWS" alt="AWS" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" title="Oracle OCI Certified" alt="Oracle OCI" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=linux" />
+</td>
+</tr>
+
+<tr>
+<td width="30%" align="center"><b>Agilidade</b></td>
+<td>
 
 
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://www.php.net/images/logos/new-php-logo.svg" 
-/>
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabrielZS1&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabrielZS1&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" title="Scrum" alt="Scrum" width="48" height="48"/>
 
 
-<img 
-  align="left"
-  alt="GitHub Stats"
-  height="200"
-  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabrielZS1&layout=compact&custom_title=Tecnologias&langs_count=9&theme=tokyonight"
-/>
+</td>
+</tr>
 
-</p>
+<tr>
+<td width="30%" align="center"><b>Tools & Productivity</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=vscode" title="VS Code" alt="VS Code" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=postman" title="Postman" alt="Postman" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=figma" title="Figma" alt="Figma" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=notion" title="Notion" alt="Notion" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=maven" title="Maven" alt="Maven" width="48" height="48"/>
+</td>
+</tr>
+</table>
+
+<br>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+<img width="65%" src="https://github-stats-mu-nine.vercel.app/api?username=Daniellramos09&show=reviews,discussions_started,discussions_answered,prs_merged&show_icons=true&include_all_commits=true&bg_color=0D1117&theme=algolia&hide_border=true" alt="GitHub Stats"/> 
+<img width="33%" 
+  src="https://github-stats-mu-nine.vercel.app/api/top-langs/?username=Daniellramos09&theme=algolia&hide_border=true&layout=pie&langs_count=8&bg_color=0D1117" alt="Top Languages"/>
+</div>
+
+
+<br> 
+<br> 
+
+<div align="center">
+<img width="80%" src="https://stats.hyo.dev/api/github-stats-advanced?login=daniellramos09" alt="GitHub Streak"/>
+</div>
+
+
+<div align="center">
+<img width="80%" src="https://stats.hyo.dev/api/github-trophies?login=daniellramos09" alt="GitHub Streak"/>
+</div>
+<div align="center">
+<img width="59%" src="https://github-readme-streak-stats.herokuapp.com/?user=Daniellramos09&theme=algolia&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+</div>
+
+<br>
+
+<details align="center">  
+  <summary>
+      <samp>
+        <b>More Info</b>
+      </samp>
+  </summary>
+  
+<br>
+
+## 📞 Contato
+
+<div align="center">
+  <samp>
+    <b>
+      Vamos conversar sobre tecnologia?
+    </b>
+  </samp>
+  <br>
+  <br>
+
+  [![Gmail](https://img.shields.io/badge/Gmail-755b25?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:danielexpeditospr2@gmail.com)
+ [![Linkedin](https://img.shields.io/badge/LinkedIn-755b25?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/daniel-expedito/)
+  
+</div>
+</details>
+</div>
