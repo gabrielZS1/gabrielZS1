@@ -1,12 +1,12 @@
-# ☕🍃 Daniel Expedito - Desenvolvedor Back-end
+# ☕🍃 Gabriel Azevedo - Desenvolvedor Back-end
 
-🏆 Estudante de Análise e Desenvolvimento de Sistemas na Fatec e formado em Programação de Jogos Digitais pela ETEC. Tenho experiência em projetos acadêmicos e freelance, sempre com forte foco em **desenvolvimento Back-end e construção de APIs RESTful**.
+🏆 Desenvolvedor de Software em formação, com foco em **desenvolvimento Back-end, construção de APIs RESTful e criação de aplicações web**. Tenho experiência prática em projetos acadêmicos e independentes, desenvolvendo soluções que integram interfaces, back-end e bancos de dados.
 
-🎓 Atualmente curso Análise e Desenvolvimento de Sistemas na Fatec, Faculdade Pública do Estado de São Paulo. 
+🎓 Formado em Desenvolvimento de Sistemas pela ETEC Basilides de Godoy e atualmente em formação no Instituto PROA, aprimorando meus conhecimentos técnicos e profissionais.
 
-☁️ **Certificação:** Oracle Cloud Infrastructure (OCI) Foundations Associate.
+🚀 **Projetos:** Desenvolvimento de sistemas de gestão, plataformas de agendamento e aplicações web com integração a bancos de dados.
 
-👨‍🎓 No momento, estou aprofundando meus conhecimentos em Java, Spring Boot, Docker, Cloud (AWS) e metodologias ágeis (Scrum).
+👨‍🎓 No momento, estou aprofundando meus conhecimentos em Java, Spring Boot, React, Node.js, bancos de dados e arquitetura de software.
 
 <br>
 
@@ -25,7 +25,7 @@
 </td>
 </tr>
 
-<tr>  
+<tr>  
 <td width="30%" align="center"><b>Backend Development</b></td>
 <td>
 <img src="https://skillicons.dev/icons?i=java" title="Java" alt="Java" width="48" height="48"/>
@@ -48,8 +48,8 @@
 <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" width="48" height="48"/>
 <img src="https://skillicons.dev/icons?i=docker" title="Docker" alt="Docker" width="48" height="48"/>
 <img src="https://skillicons.dev/icons?i=aws" title="AWS" alt="AWS" width="48" height="48"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" title="Oracle OCI Certified" alt="Oracle OCI" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=linux" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" title="Oracle OCI" alt="Oracle OCI" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=linux" />
 </td>
 </tr>
 
@@ -57,9 +57,7 @@
 <td width="30%" align="center"><b>Agilidade</b></td>
 <td>
 
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" title="Scrum" alt="Scrum" width="48" height="48"/>
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="48" height="48"/>
 
 </td>
 </tr>
@@ -81,9 +79,9 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img width="65%" src="https://github-stats-mu-nine.vercel.app/api?username=Daniellramos09&show=reviews,discussions_started,discussions_answered,prs_merged&show_icons=true&include_all_commits=true&bg_color=0D1117&theme=algolia&hide_border=true" alt="GitHub Stats"/> 
+<img width="65%" src="https://github-stats-mu-nine.vercel.app/api?username=gabrielZS1&show=reviews,discussions_started,discussions_answered,prs_merged&show_icons=true&include_all_commits=true&bg_color=0D1117&theme=algolia&hide_border=true" alt="GitHub Stats"/> 
 <img width="33%" 
-  src="https://github-stats-mu-nine.vercel.app/api/top-langs/?username=Daniellramos09&theme=algolia&hide_border=true&layout=pie&langs_count=8&bg_color=0D1117" alt="Top Languages"/>
+  src="https://github-stats-mu-nine.vercel.app/api/top-langs/?username=gabrielZS1&theme=algolia&hide_border=true&layout=pie&langs_count=8&bg_color=0D1117" alt="Top Languages"/>
 </div>
 
 
@@ -91,42 +89,43 @@
 <br> 
 
 <div align="center">
-<img width="80%" src="https://stats.hyo.dev/api/github-stats-advanced?login=daniellramos09" alt="GitHub Streak"/>
+<img width="80%" src="https://stats.hyo.dev/api/github-stats-advanced?login=gabrielZS1" alt="GitHub Stats Advanced"/>
 </div>
 
 
 <div align="center">
-<img width="80%" src="https://stats.hyo.dev/api/github-trophies?login=daniellramos09" alt="GitHub Streak"/>
+<img width="80%" src="https://stats.hyo.dev/api/github-trophies?login=gabrielZS1" alt="GitHub Trophies"/>
 </div>
 <div align="center">
-<img width="59%" src="https://github-readme-streak-stats.herokuapp.com/?user=Daniellramos09&theme=algolia&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+<img width="59%" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielZS1&theme=algolia&hide_border=true&background=0D1117" alt="GitHub Streak"/>
 </div>
 
 <br>
 
-<details align="center">  
-  <summary>
-      <samp>
-        <b>More Info</b>
-      </samp>
-  </summary>
-  
+<details align="center">  
+  <summary>
+      <samp>
+        <b>Mais informações</b>
+      </samp>
+  </summary>
+  
 <br>
 
 ## 📞 Contato
 
 <div align="center">
-  <samp>
-    <b>
-      Vamos conversar sobre tecnologia?
-    </b>
-  </samp>
-  <br>
-  <br>
+  <samp>
+    <b>
+      Vamos conversar sobre tecnologia?
+    </b>
+  </samp>
+  <br>
+  <br>
 
-  [![Gmail](https://img.shields.io/badge/Gmail-755b25?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:danielexpeditospr2@gmail.com)
- [![Linkedin](https://img.shields.io/badge/LinkedIn-755b25?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/daniel-expedito/)
-  
+  [![Gmail](https://img.shields.io/badge/Gmail-755b25?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:gabrielazevedops@gmail.com)
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-755b25?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/gabrielazevedo02/)
+
 </div>
 </details>
 </div>
