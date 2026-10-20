@@ -22,6 +22,7 @@
 <td>
 <img src="https://skillicons.dev/icons?i=html" title="Html" alt="Html" width="48" height="48"/>
 <img src="https://skillicons.dev/icons?i=css" title="Css" alt="Css" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=react" title="React" alt="React" width="48" height="48"/>
 </td>
 </tr>
 
@@ -30,7 +31,7 @@
 <td>
 <img src="https://skillicons.dev/icons?i=java" title="Java" alt="Java" width="48" height="48"/>
 <img src="https://skillicons.dev/icons?i=spring" title="Spring" alt="Spring" width="48" height="48"/>
-<img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=php" title="Php" alt="php" width="48" height="48"/>
 </td>
 </tr>
 
@@ -48,8 +49,6 @@
 <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" width="48" height="48"/>
 <img src="https://skillicons.dev/icons?i=docker" title="Docker" alt="Docker" width="48" height="48"/>
 <img src="https://skillicons.dev/icons?i=aws" title="AWS" alt="AWS" width="48" height="48"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" title="Oracle OCI" alt="Oracle OCI" width="48" height="48"/>
-<img src="https://skillicons.dev/icons?i=linux" />
 </td>
 </tr>
 
